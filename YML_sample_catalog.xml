@@ -1,211 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2024-08-15T17:37:33">
-  <shop>
-    <name>BestSeller</name>
-    <company>Time Best Inc.</company>
-    <url>https://best.seller.ru/</url>
-    <platform>OpenMarket</platform>
-    <version>1.0</version>
-    <agency>Technovendor</agency>
-    <email>example-email@gmail.com</email>
-    <categories>
-      <category id="10">Бытовая техника</category>
-      <category id="11" parentId="10">Мелкая техника для кухни</category>
-      <category id="12" parentId="10">Электрические приборы для ванны</category>
-    </categories>
-    <offers>
-      <offer id="A001">
-        <name>iPhone 14</name>
-        <vendor>Apple</vendor>
-        <vendorCode>A123456789</vendorCode>
-        <categoryId>10</categoryId>
-        <picture>http://best.seller.ru/img/model_12345.jpg</picture>
-        <description>
-          <![CDATA[
-          <p>Новый смартфон от Apple</p>
-          ]]>
-        </description>
-        <manufacturer_warranty>true</manufacturer_warranty>
-        <country_of_origin>USA</country_of_origin>
-        <price>999</price>
-        <barcode>123456789012</barcode>
-        <param name="Диагональ, дюйм">6.1</param>
-        <dimensions>70/150/7</dimensions>
-        <weight>200</weight>
-        <quantityMin>1</quantityMin>
-        <quantityStep>1</quantityStep>
-        <basePrice>950</basePrice>
-        <markup>5%</markup>
-      </offer>
-
-      <offer id="A002">
-        <name>Samsung Galaxy S23</name>
-        <vendor>Samsung</vendor>
-        <vendorCode>B234567890</vendorCode>
-        <categoryId>10</categoryId>
-        <picture>http://best.seller.ru/img/model_56789.jpg</picture>
-        <description>
-          <![CDATA[
-          <p>Флагманский смартфон от Samsung</p>
-          ]]>
-        </description>
-        <manufacturer_warranty>true</manufacturer_warranty>
-        <country_of_origin>Korea</country_of_origin>
-        <price>850</price>
-        <barcode>234567890123</barcode>
-        <param name="Диагональ, дюйм">6.8</param>
-        <dimensions>75/160/8</dimensions>
-        <weight>180</weight>
-        <quantityMin>1</quantityMin>
-        <quantityStep>2</quantityStep>
-        <basePrice>820</basePrice>
-        <markup>3.5%</markup>
-      </offer>
-
-      <offer id="A003">
-        <name>Huawei Watch</name>
-        <vendor>Huawei</vendor>
-        <vendorCode>C345678901</vendorCode>
-        <categoryId>11</categoryId>
-        <picture>http://best.seller.ru/img/model_67890.jpg</picture>
-        <description>
-          <![CDATA[
-          <p>Смарт-часы с длительным зарядом</p>
-          ]]>
-        </description>
-        <manufacturer_warranty>true</manufacturer_warranty>
-        <country_of_origin>China</country_of_origin>
-        <price>300</price>
-        <barcode>345678901234</barcode>
-        <param name="Диагональ, дюйм">1.5</param>
-        <dimensions>45/45/10</dimensions>
-        <weight>50</weight>
-        <quantityMin>1</quantityMin>
-        <quantityStep>1</quantityStep>
-        <basePrice>290</basePrice>
-        <markup>3%</markup>
-      </offer>
-
-      <offer id="A004">
-        <name>iPad Air</name>
-        <vendor>Apple</vendor>
-        <vendorCode>D456789012</vendorCode>
-        <categoryId>12</categoryId>
-        <picture>http://best.seller.ru/img/model_78901.jpg</picture>
-        <description>
-          <![CDATA[
-          <p>Легкий и мощный планшет от Apple</p>
-          ]]>
-        </description>
-        <manufacturer_warranty>true</manufacturer_warranty>
-        <country_of_origin>USA</country_of_origin>
-        <price>600</price>
-        <barcode>456789012345</barcode>
-        <param name="Диагональ, дюйм">10.9</param>
-        <dimensions>250/180/7</dimensions>
-        <weight>400</weight>
-        <quantityMin>1</quantityMin>
-        <quantityStep>1</quantityStep>
-        <basePrice>570</basePrice>
-        <markup>5.5%</markup>
-      </offer>
-
-      <offer id="A005">
-        <name>Apple Watch</name>
-        <vendor>Apple</vendor>
-        <vendorCode>E567890123</vendorCode>
-        <categoryId>11</categoryId>
-        <picture>http://best.seller.ru/img/model_89012.jpg</picture>
-        <description>
-          <![CDATA[
-          <p>Смарт-часы для здоровья и фитнеса</p>
-          ]]>
-        </description>
-        <manufacturer_warranty>true</manufacturer_warranty>
-        <country_of_origin>USA</country_of_origin>
-        <price>400</price>
-        <barcode>567890123456</barcode>
-        <param name="Диагональ, дюйм">1.9</param>
-        <dimensions>44/38/11</dimensions>
-        <weight>60</weight>
-        <quantityMin>1</quantityMin>
-        <quantityStep>1</quantityStep>
-        <basePrice>380</basePrice>
-        <markup>5%</markup>
-      </offer>
-
-      <offer id="A006">
-        <name>Galaxy Tab S8</name>
-        <vendor>Samsung</vendor>
-        <vendorCode>F678901234</vendorCode>
-        <categoryId>12</categoryId>
-        <picture>http://best.seller.ru/img/model_90123.jpg</picture>
-        <description>
-          <![CDATA[
-          <p>Планшет с большим экраном</p>
-          ]]>
-        </description>
-        <manufacturer_warranty>true</manufacturer_warranty>
-        <country_of_origin>Korea</country_of_origin>
-        <price>750</price>
-        <barcode>678901234567</barcode>
-        <param name="Диагональ, дюйм">11.0</param>
-        <dimensions>253/180/7</dimensions>
-        <weight>500</weight>
-        <quantityMin>1</quantityMin>
-        <quantityStep>1</quantityStep>
-        <basePrice>710</basePrice>
-        <markup>5%</markup>
-      </offer>
-
-      <offer id="A007">
-        <name>Coffee Maker</name>
-        <vendor>Philips</vendor>
-        <vendorCode>G789012345</vendorCode>
-        <categoryId>10</categoryId>
-        <picture>http://best.seller.ru/img/model_01234.jpg</picture>
-        <description>
-          <![CDATA[
-          <p>Компактная кофеварка для кухни</p>
-          ]]>
-        </description>
-        <manufacturer_warranty>true</manufacturer_warranty>
-        <country_of_origin>China</country_of_origin>
-        <price>150</price>
-        <barcode>789012345678</barcode>
-        <param name="Объем емкости, мл">1500</param>
-        <dimensions>200/300/20</dimensions>
-        <weight>2000</weight>
-        <quantityMin>1</quantityMin>
-        <quantityStep>1</quantityStep>
-        <basePrice>140</basePrice>
-        <markup>5%</markup>
-      </offer>
-
-      <offer id="A008">
-        <name>Mixer</name>
-        <vendor>Bosch</vendor>
-        <vendorCode>H890123456</vendorCode>
-        <categoryId>11</categoryId>
-        <picture>http://best.seller.ru/img/model_12345.jpg</picture>
-        <description>
-          <![CDATA[
-          <p>Удобный миксер для кухни</p>
-          ]]>
-        </description>
-        <manufacturer_warranty>true</manufacturer_warranty>
-        <country_of_origin>Germany</country_of_origin>
-        <price>120</price>
-        <barcode>890123456789</barcode>
-        <param name="Объем емкости, мл">1000</param>
-        <dimensions>150/200/15</dimensions>
-        <weight>1000</weight>
-        <quantityMin>1</quantityMin>
-        <quantityStep>1</quantityStep>
-        <basePrice>110</basePrice>
-        <markup>5%</markup>
-      </offer>
-
-    </offers>
-  </shop>
+<yml_catalog date="2022-08-10T14:37:38+03:00">
+    <shop>
+        <name>BestSeller</name>
+        <company>Tne Best inc.</company>
+        <url>http://best.seller.ru</url>
+        <platform>uCoz</platform>
+        <version>1.0</version>
+        <agency>Технологичные решения</agency>
+        <email>example-email@gmail.com</email>
+        <categories>
+            <category id="1">Бытовая техника</category>
+            <category id="10" parentId="1">Мелкая техника для кухни</category>
+            <category id="101" parentId="10">Сэндвичницы и приборы для выпечки</category>
+        </categories>
+        <offers>
+            <offer id="901299">
+                <name>Мороженица Brand 3811</name>
+                <vendor>Brand</vendor>
+                <vendorCode>A1234567B</vendorCode>
+                <categoryId>10</categoryId>                
+                <picture>http://best.seller.ru/img/model_12345.jpg</picture>               
+                <description>
+                    <![CDATA[          
+                        <h3>Мороженица Brand 3811</h3>
+                        <p>Это прибор, который придётся по вкусу всем любителям десертов и сладостей, ведь с его помощью вы сможете делать вкусное домашнее мороженое из натуральных ингредиентов.</p>
+                ]]>
+                </description>                               
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <country_of_origin>Китай</country_of_origin>
+                <barcode>4601546021298</barcode>
+                <param name="Цвет">белый</param>
+                <weight>3.6</weight>
+                <dimensions>20.1/20.5/22.5</dimensions>
+                <service-life-days>P2Y</service-life-days>
+                <comment-life-days>Использовать при температуре не ниже -10 градусов.</comment-life-days>
+                <warranty-days>P1Y</warranty-days>
+                <comment-warranty>Гарантия не распространяется на механические повреждения покрытия чаши.</comment-warranty>             
+                </offer>
+            <offer id="123467">
+                <name>Сэндвичница Brand A1234567B</name>                            
+                <vendor>Brand</vendor>                  
+                <vendorCode>A1234567B</vendorCode>                
+                <categoryId>101</categoryId>                
+                <picture>http://best.seller.ru/img/device56789.jpg</picture>               
+                <param name="Мощность">750 Вт</param>
+                <description>Сэндвичница 2 в 1: можно приготовить как сэндвичи, так и вафли.</description>                
+                <manufacturer_warranty>true</manufacturer_warranty>
+                <country_of_origin>Россия</country_of_origin>
+                <barcode>9876543210</barcode>  
+                <weight>1.03</weight>  
+                <dimensions>20.800/23.500/9.000</dimensions>
+            </offer>
+        </offers>
+    </shop>
 </yml_catalog>
