@@ -10,21 +10,21 @@
             <offer id="d20d2d5e-4e12-486d-b56c-0bc2dd7b721f" type="vendor.model" available="true">
                 <url>https://shop.humans.uz/af7d1211-c4c7-4747-b29d-0a4a5cb03614/product/ce34fd8c-53d4-4cef-bacb-610c3182dfae</url>
                 <picture>https://mps-static.humans.uz/657/6d6/6d0/310593/conversions/2346e55d-af80-4623-b88b-1e2f33a3676f-detail.jpg</picture>
-                <vendorCode>8809614958050</vendorCode>
+                <vendorCode>8809614958052</vendorCode>
                 <price>190000.00</price>
                 <purchase_price>190000.00</purchase_price>
                 <currencyId>UZS</currencyId>
-                <model>New Barcode ОЧИЩАЮЩИЕ ПЭДЫ ROUND LAB BIRCH JUICE CLEANSING PAD 210 g (60 sheets)</model>
+                <model>New2 Barcode ОЧИЩАЮЩИЕ ПЭДЫ ROUND LAB BIRCH JUICE CLEANSING PAD 210 g (60 sheets)</model>
                 <description/>
-                <min-quantity>1.000</min-quantity>
-                <step-quantity>1.000</step-quantity>
+                <min-quantity>2.000</min-quantity>
+                <step-quantity>2.000</step-quantity>
                 <unit>шт</unit>
                 <sort>500</sort>
-                <barcode>8809614958051</barcode>
+                <barcode>8809614958052</barcode>
             </offer>
             <offer id="85c95327-c949-4e0b-84a4-179be5a612a9" type="vendor.model" available="false">
                 <url>https://shop.humans.uz/af7d1211-c4c7-4747-b29d-0a4a5cb03614/product/7e3c77e9-8cde-4758-80fe-cd762dfd632a</url>
-                <vendorCode>8809351952660</vendorCode>
+                <vendorCode>8809351952662</vendorCode>
                 <price>6000.00</price>
                 <purchase_price>6000.00</purchase_price>
                 <currencyId>UZS</currencyId>
@@ -34,7 +34,7 @@
                 <step-quantity>1.000</step-quantity>
                 <unit>шт</unit>
                 <sort>500</sort>
-                <barcode>8809351952661</barcode>
+                <barcode>8809351952662</barcode>
             </offer>
             <offer id="d2f9c725-4daf-4477-a542-18b724de3690" type="vendor.model" available="true">
                 <url>https://shop.humans.uz/af7d1211-c4c7-4747-b29d-0a4a5cb03614/product/debec7fe-1070-4584-a9c7-f12901603523</url>
