@@ -26,6 +26,21 @@
                 <url>https://shop.humans.uz/af7d1211-c4c7-4747-b29d-0a4a5cb03614/product/ce34fd8c-53d4-4cef-bacb-610c3182dfae</url>
                 <picture>https://mps-static.humans.uz/657/6d6/6d0/310593/conversions/2346e55d-af80-4623-b88b-1e2f33a3676f-detail.jpg</picture>
                 <vendorCode>8809614958052</vendorCode>
+                <price>30000.00</price>
+                <purchase_price>30000.00</purchase_price>
+                <currencyId>UZS</currencyId>
+                <model>3 Barcode ОЧИЩАЮЩИЕ ПЭДЫ ROUND LAB BIRCH JUICE CLEANSING PAD 210 g (60 sheets)</model>
+                <description/>
+                <min-quantity>3.000</min-quantity>
+                <step-quantity>3.000</step-quantity>
+                <unit>шт</unit>
+                <sort>500</sort>
+                <barcode>8809614958052</barcode>
+            </offer>
+            <offer id="d20d2d5e-4e12-486d-b56c-0bc2dd7b721f" type="vendor.model" available="true">
+                <url>https://shop.humans.uz/af7d1211-c4c7-4747-b29d-0a4a5cb03614/product/ce34fd8c-53d4-4cef-bacb-610c3182dfae</url>
+                <picture>https://mps-static.humans.uz/657/6d6/6d0/310593/conversions/2346e55d-af80-4623-b88b-1e2f33a3676f-detail.jpg</picture>
+                <vendorCode>8809614958052</vendorCode>
                 <price>300000.00</price>
                 <purchase_price>190000.00</purchase_price>
                 <currencyId>UZS</currencyId>
