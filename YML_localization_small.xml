@@ -96,6 +96,21 @@
                 <sort>500</sort>
                 <barcode>8809789632311</barcode>
             </offer>
+            <offer id="d2f9c725-4daf-4477-a542-18b724de3690" type="vendor.model" available="true">
+                <url>https://shop.humans.uz/af7d1211-c4c7-4747-b29d-0a4a5cb03614/product/debec7fe-1070-4584-a9c7-f12901603523</url>
+                <picture>https://mps-static.humans.uz/857/271/44b/311409/conversions/29fa7703-5050-48b8-8021-20f6aa89311e-detail.jpg</picture>
+                <vendorCode>8809789632318</vendorCode>
+                <price>70000.00</price>
+                <purchase_price>70000.00</purchase_price>
+                <currencyId>UZS</currencyId>
+                <model>70 name МАСКА ДЛЯ ВОЛОС</model>
+                <description/>
+                <min-quantity>1.000</min-quantity>
+                <step-quantity>1.000</step-quantity>
+                <unit>шт</unit>
+                <sort>500</sort>
+                <barcode>8809789632311</barcode>
+            </offer>
             <offer id="7e35a025-a1c8-4ae7-9c12-a0b7425f6bac" type="vendor.model" available="false">
                 <url>https://shop.humans.uz/af7d1211-c4c7-4747-b29d-0a4a5cb03614/product/06f74777-f534-439a-8a03-2415e8346807</url>
                 <picture>https://mps-static.humans.uz/56a/f6d/2a3/307406/conversions/qlAqaVUR22J0zdj2A0WydElgfHct86dpC5j90DED-detail.jpg</picture>
