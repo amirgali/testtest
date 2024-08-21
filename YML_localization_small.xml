@@ -83,12 +83,12 @@
             </offer>
             <offer id="d2f9c725-4daf-4477-a542-18b724de3690" type="vendor.model" available="true">
                 <url>https://shop.humans.uz/af7d1211-c4c7-4747-b29d-0a4a5cb03614/product/debec7fe-1070-4584-a9c7-f12901603523</url>
-                <picture>https://mps-static.humans.uz/857/271/44b/311409/conversions/29fa7703-5050-48b8-8021-20f6aa89311e-detail.jpg</picture>
-                <vendorCode>8809789632318</vendorCode>
+                <picture>https://mps-static.humans.uz/857/271/44b/311409/conversions/29fa7703-5050-48b8-8021-20f6aa89312e-detail.jpg</picture>
+                <vendorCode>8809789632311</vendorCode>
                 <price>10000.00</price>
-                <purchase_price>120000.00</purchase_price>
+                <purchase_price>10000.00</purchase_price>
                 <currencyId>UZS</currencyId>
-                <model>МАСКА ДЛЯ ВОЛОС</model>
+                <model>3 МАСКА ДЛЯ ВОЛОС</model>
                 <description/>
                 <min-quantity>1.000</min-quantity>
                 <step-quantity>1.000</step-quantity>
@@ -98,10 +98,10 @@
             </offer>
             <offer id="d2f9c725-4daf-4477-a542-18b724de3690" type="vendor.model" available="true">
                 <url>https://shop.humans.uz/af7d1211-c4c7-4747-b29d-0a4a5cb03614/product/debec7fe-1070-4584-a9c7-f12901603523</url>
-                <picture>https://mps-static.humans.uz/857/271/44b/311409/conversions/29fa7703-5050-48b8-8021-20f6aa89311e-detail.jpg</picture>
-                <vendorCode>8809789632318</vendorCode>
+                <picture>https://mps-static.humans.uz/857/271/44b/311409/conversions/29fa7703-5050-48b8-8021-20f6aa89313e-detail.jpg</picture>
+                <vendorCode>8809789632312</vendorCode>
                 <price>20000.00</price>
-                <purchase_price>120000.00</purchase_price>
+                <purchase_price>20000.00</purchase_price>
                 <currencyId>UZS</currencyId>
                 <model>2 МАСКА ДЛЯ ВОЛОС</model>
                 <description/>
