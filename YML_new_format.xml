@@ -8,6 +8,14 @@
             </availabilities>
             <price>369990</price>
         </offer>
+        <offer sku="1062837">
+            <model>New LEGO: Замок Хогвартс Harry Potter 71043</model>
+            <brand>New LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="NEWAKLDMO12"/>
+            </availabilities>
+            <price>111369990</price>
+        </offer>
         <offer sku="1155131">
             <model>LEGO: Коробка с кубиками DUPLO 10913</model>
             <brand>LEGO</brand>
