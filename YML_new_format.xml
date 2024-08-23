@@ -1,12 +1,12 @@
-<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2024-08-17 14:38" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2024-08-17 15:38" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
     <offers>
-        <offer sku="1062837">
-            <model>LEGO: Замок Хогвартс Harry Potter 71043</model>
-            <brand>LEGO</brand>
+        <offer sku="1072837">
+            <model>LEGO1: Замок Хогвартс Harry Potter 71043</model>
+            <brand>LEGO1</brand>
             <availabilities>
-                <availability available="yes" storeId="AKLDMO12"/>
+                <availability available="yes" storeId="A1KLDMO12"/>
             </availabilities>
-            <price>369990</price>
+            <price>369991</price>
         </offer>
         <offer sku="1111062837">
             <model>New LEGO: Замок Хогвартс Harry Potter 71043</model>
