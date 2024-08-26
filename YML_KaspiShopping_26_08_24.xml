@@ -1,28 +1,36 @@
 <kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2024-08-16 13:38" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
     <offers>
         <offer sku="1062837">
-            <model>LEGO: Замок Хогвартс Harry Potter 71043</model>
+            <model>New LEGO: Замок Хогвартс Harry Potter 71043</model>
             <brand>LEGO</brand>
             <availabilities>
                 <availability available="yes" storeId="AKLDMO12"/>
             </availabilities>
             <price>369990</price>
         </offer>
-        <offer sku="1155131">
-            <model>LEGO: Коробка с кубиками DUPLO 10913</model>
+        <offer sku="1062830">
+            <model>New LEGO: Замок Хогвартс Harry Potter 71043</model>
             <brand>LEGO</brand>
             <availabilities>
                 <availability available="yes" storeId="AKLDMO12"/>
             </availabilities>
-            <price>16190</price>
+            <price>99999</price>
         </offer>
-        <offer sku="1178011">
-            <model>LEGO: Грузовик и гусеничный экскаватор DUPLO 10931</model>
+        <offer sku="1155130">
+            <model>New LEGO: Коробка с кубиками DUPLO 10913</model>
             <brand>LEGO</brand>
             <availabilities>
                 <availability available="yes" storeId="AKLDMO12"/>
             </availabilities>
-            <price>10990</price>
+            <price>99999</price>
+        </offer>
+        <offer sku="1178010">
+            <model>New LEGO: Грузовик и гусеничный экскаватор DUPLO 10931</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>999999</price>
         </offer>
         <offer sku="1187850">
             <model>LEGO: Lamborghini Sián FKP 37 Technic 42115</model>
