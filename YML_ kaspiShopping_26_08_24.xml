@@ -1,0 +1,1353 @@
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2024-08-16 13:38" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+    <offers>
+        <offer sku="1062837">
+            <model>LEGO: Замок Хогвартс Harry Potter 71043</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>369990</price>
+        </offer>
+        <offer sku="1155131">
+            <model>LEGO: Коробка с кубиками DUPLO 10913</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>16190</price>
+        </offer>
+        <offer sku="1178011">
+            <model>LEGO: Грузовик и гусеничный экскаватор DUPLO 10931</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>10990</price>
+        </offer>
+        <offer sku="1187850">
+            <model>LEGO: Lamborghini Sián FKP 37 Technic 42115</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>349990</price>
+        </offer>
+        <offer sku="1212828">
+            <model>LEGO: Трактор CITY 60287</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>9100</price>
+        </offer>
+        <offer sku="1215566">
+            <model>LEGO: Праздничный поезд Микки и Минни DUPLO 10941</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>19990</price>
+        </offer>
+        <offer sku="1243130">
+            <model>LEGO: Тадж-Махал Architecture 21056</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>79990</price>
+        </offer>
+        <offer sku="1274118">
+            <model>LEGO: Схватка Халка и Носорога на грузовиках Super Heroes 10782</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>11990</price>
+        </offer>
+        <offer sku="1276951">
+            <model>LEGO: Speed-Champions-IP2-2022 Speed Champions 76907</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>14690</price>
+        </offer>
+        <offer sku="1344232">
+            <model>LEGO: Я есть Грут Super Heroes 76217</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>37990</price>
+        </offer>
+        <offer sku="1344276">
+            <model>LEGO: Подземелье скелетов Minecraft 21189</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>18990</price>
+        </offer>
+        <offer sku="1344284">
+            <model>LEGO: Дикие животные Африки DUPLO 10971</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>5490</price>
+        </offer>
+        <offer sku="1350247">
+            <model>LEGO: Фигурка Человека-Паука Super Heroes 76226</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>19100</price>
+        </offer>
+        <offer sku="1344206">
+            <model>LEGO: Дополнительный набор «Замок»  Super Mario 71408</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>99990</price>
+        </offer>
+        <offer sku="1354409">
+            <model>LEGO: Товарный поезд CITY 60336</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>117990</price>
+        </offer>
+        <offer sku="1357513">
+            <model>LEGO: Приключения внедорожника 4x4 CITY 60387</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>13590</price>
+        </offer>
+        <offer sku="1357527">
+            <model>LEGO: Корабль-путеводитель Моаны Disney Princess 43210</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>24990</price>
+        </offer>
+        <offer sku="1357531">
+            <model>LEGO: Коробка Сердце DUPLO 10909</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>9990</price>
+        </offer>
+        <offer sku="1357533">
+            <model>LEGO: Молния Маккуин и Мэтр DUPLO 10996</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>19490</price>
+        </offer>
+        <offer sku="1357580">
+            <model>LEGO: Бугатти Болид Technic 42151</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>38990</price>
+        </offer>
+        <offer sku="1357593">
+            <model>LEGO: Пчелиный коттедж Minecraft 21241</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>13490</price>
+        </offer>
+        <offer sku="1357606">
+            <model>LEGO: Форсаж 2 Ниссан Скайл Speed Champions 76917</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>17990</price>
+        </offer>
+        <offer sku="1357504">
+            <model>LEGO: Электрический спортивный автомобиль CITY 60383</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>4990</price>
+        </offer>
+        <offer sku="1357536">
+            <model>LEGO: Семейный дом на колесах DUPLO 10986</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>11990</price>
+        </offer>
+        <offer sku="1357583">
+            <model>LEGO: Monster Jam Дракон Technic 42149</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>13990</price>
+        </offer>
+        <offer sku="1365748">
+            <model>LEGO: Букет полевых цветов Botanicals 10313</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>39990</price>
+        </offer>
+        <offer sku="1368077">
+            <model>LEGO: Волшебный единорог Creator 31140</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>5990</price>
+        </offer>
+        <offer sku="1368081">
+            <model>LEGO: Шевроле Камаро ZL1 нового поколения NASCAR Technic 42153</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>30990</price>
+        </offer>
+        <offer sku="1368094">
+            <model>LEGO: Ferrari 812 Competizione Speed Champions 76914</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>14990</price>
+        </offer>
+        <offer sku="1374730">
+            <model>LEGO: Летающий дом из мультфильма «Вверх» Disney 43217</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>34500</price>
+        </offer>
+        <offer sku="1374731">
+            <model>LEGO: Корабль малышки ракеты Super Heroes 76254</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>24990</price>
+        </offer>
+        <offer sku="1381259">
+            <model>LEGO: Домик на дереве 3 в 1 DUPLO 10993</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>51190</price>
+        </offer>
+        <offer sku="1386004">
+            <model>LEGO: Волшебный домик на дереве Disney 43215</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>134990</price>
+        </offer>
+        <offer sku="1386029">
+            <model>LEGO: Общественная кухня Хартлейк-Сити Friends 41747</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>36393</price>
+        </offer>
+        <offer sku="1386046">
+            <model>LEGO: Экспекто Патронум Harry Potter 76414</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>49990</price>
+        </offer>
+        <offer sku="1386047">
+            <model>LEGO: Битва за Хогвартс Harry Potter 76415</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>64990</price>
+        </offer>
+        <offer sku="1392887">
+            <model>LEGO: BTS Dynamite Ideas 21339</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>52493</price>
+        </offer>
+        <offer sku="1396703">
+            <model>LEGO: Lamborghini Huracán Technic 42161</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>40990</price>
+        </offer>
+        <offer sku="1396705">
+            <model>LEGO: Финальная битва Человека-паука Super Heroes 76261</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>79990</price>
+        </offer>
+        <offer sku="1418637">
+            <model>LEGO: Растение-пиранья Super Mario 71426</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>44990</price>
+        </offer>
+        <offer sku="1424832">
+            <model>LEGO: Пчелиная ферма DUPLO 10419</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>9590</price>
+        </offer>
+        <offer sku="1424834">
+            <model>LEGO: McLaren Extreme E-Race Technic 42166</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>19990</price>
+        </offer>
+        <offer sku="1424854">
+            <model>LEGO: Оружейная палата Minecraft 21252</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>14990</price>
+        </offer>
+        <offer sku="1424857">
+            <model>LEGO: Засада у Нижнего портала Minecraft 21255</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>28990</price>
+        </offer>
+        <offer sku="1424861">
+            <model>LEGO: Бортовой грузовик с вертолетом Creator 31146</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>13990</price>
+        </offer>
+        <offer sku="1424868">
+            <model>LEGO: Экзотический павлин Creator 31157</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>13490</price>
+        </offer>
+        <offer sku="1424872">
+            <model>LEGO: Дерево Йоши Super Mario 71428</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>5990</price>
+        </offer>
+        <offer sku="1424883">
+            <model>LEGO: Боевой меч Джея Ninjago 71805</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>5990</price>
+        </offer>
+        <offer sku="1424885">
+            <model>LEGO: Огненный робот Кая Ninjago 71808</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>21990</price>
+        </offer>
+        <offer sku="1424889">
+            <model>LEGO: Механическая военная машина Marvel 76277</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>9490</price>
+        </offer>
+        <offer sku="1424896">
+            <model>LEGO: Цветы лотоса Botanicals 40647</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>8490</price>
+        </offer>
+        <offer sku="1424911">
+            <model>LEGO: Багги для гонок по бездорожью Technic 42164</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>12490</price>
+        </offer>
+        <offer sku="1424912">
+            <model>LEGO: Электрический мусоровоз Mack LR Technic 42167</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>25990</price>
+        </offer>
+        <offer sku="1424939">
+            <model>LEGO: Пожарно-спасательный вертолет CITY 60411</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>4790</price>
+        </offer>
+        <offer sku="1424941">
+            <model>LEGO: Пожарно-спасательный самолет CITY 60413</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>46990</price>
+        </offer>
+        <offer sku="1424947">
+            <model>LEGO: Космический строительный робот CITY 60428</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>4790</price>
+        </offer>
+        <offer sku="1424949">
+            <model>LEGO: Межзвездный космический корабль CITY 60430</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>12990</price>
+        </offer>
+        <offer sku="1424950">
+            <model>LEGO: Космический вездеход и инопланетная жизнь CITY 60431</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>21990</price>
+        </offer>
+        <offer sku="1424954">
+            <model>LEGO: Парусная лодка CITY 60438</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>11490</price>
+        </offer>
+        <offer sku="1424957">
+            <model>LEGO: Земной робот Коула Ninjago 71806</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>13490</price>
+        </offer>
+        <offer sku="1433326">
+            <model>LEGO: Автомобиль-отбойный молоток Marvel 10792</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>5490</price>
+        </offer>
+        <offer sku="1433332">
+            <model>LEGO: Гоночный автомобиль Mercedes Pullback Technic 42165</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>18990</price>
+        </offer>
+        <offer sku="1433333">
+            <model>LEGO: Гоночный автомобиль NEOM McLaren Формулы E Technic 42169</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>37990</price>
+        </offer>
+        <offer sku="1433336">
+            <model>LEGO: Гоночный автомобиль Mercedes Формулы-1 Technic 42171</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>164990</price>
+        </offer>
+        <offer sku="1433347">
+            <model>LEGO: Робот-ниндзя-альпинист Кая Ninjago 71812</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>48990</price>
+        </offer>
+        <offer sku="1433352">
+            <model>LEGO: Посадка на Тантив IV Star Wars 75387</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>39990</price>
+        </offer>
+        <offer sku="1433359">
+            <model>LEGO: Гоночный автомобиль Формулы 1 McLaren Speed ​​Champions 76919</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>18490</price>
+        </offer>
+        <offer sku="1433370">
+            <model>LEGO: Механизм стихийной силы Ллойда Ninjago 71817</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>13990</price>
+        </offer>
+        <offer sku="1433372">
+            <model>LEGO: Музей естествознания Icons 10326</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>219990</price>
+        </offer>
+        <offer sku="1433373">
+            <model>LEGO: Теневой Додзё в маске волка Ninjago 71813</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>89990</price>
+        </offer>
+        <offer sku="1433316">
+            <model>LEGO: Визит в ветеринарную клинику DUPLO 10438</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>11990</price>
+        </offer>
+        <offer sku="1442346">
+            <model>LEGO: Ситх-лазутчик Дарта Мола Star Wars 75383</model>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>52990</price>
+        </offer>
+        <offer sku="1442351">
+            <model>LEGO: Автомобиль для вечеринок Гадкий Я 4 75581</model>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>28990</price>
+        </offer>
+        <offer sku="1442341">
+            <model>LEGO: Головоломка: Куб эмоций Disney 43248</model>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>24490</price>
+        </offer>
+        <offer sku="1446260">
+            <model>LEGO: Кот Ideas 21349</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>74990</price>
+        </offer>
+        <offer sku="1446272">
+            <model>LEGO: Cобор Парижской Богоматери Architecture 21061</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>179990</price>
+        </offer>
+        <offer sku="1446277">
+            <model>LEGO: Дракон Эндера и последний корабль Minecraft 21264</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>59990</price>
+        </offer>
+        <offer sku="1446278">
+            <model>LEGO: Тираннозавр Рекс Creator 31151</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>42990</price>
+        </offer>
+        <offer sku="1446288">
+            <model>LEGO: Машина для ухода за собаками Friends 42635</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>5990</price>
+        </offer>
+        <offer sku="1446290">
+            <model>LEGO: Хостел в Хартлейк-Сити Friends 42638</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>69990</price>
+        </offer>
+        <offer sku="1446292">
+            <model>LEGO: Малефисента в образе дракона Disney 43240</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>49990</price>
+        </offer>
+        <offer sku="1446293">
+            <model>LEGO: Симба - детеныш Короля Льва Disney 43243</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>12990</price>
+        </offer>
+        <offer sku="1446294">
+            <model>LEGO: Зимний дворец Эльзы Disney 43244</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>69990</price>
+        </offer>
+        <offer sku="1446295">
+            <model>LEGO: Волшебный дом Мадригалов Disney 43245</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>124990</price>
+        </offer>
+        <offer sku="1446296">
+            <model>LEGO: Classic Disney 43247</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>99990</price>
+        </offer>
+        <offer sku="1446297">
+            <model>LEGO: Хрустальная пещера Ариэль Disney 43254</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>19990</price>
+        </offer>
+        <offer sku="1446298">
+            <model>LEGO: Шкатулка для драгоценностей Белоснежки Disney 43276</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>29990</price>
+        </offer>
+        <offer sku="1446299">
+            <model>LEGO: Красный двухэтажный экскурсионный автобус City 60407</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>17990</price>
+        </offer>
+        <offer sku="1446300">
+            <model>LEGO: Грузовик-автовоз со спортивными автомобилями City 60408</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>69990</price>
+        </offer>
+        <offer sku="1446301">
+            <model>LEGO: Желтый передвижной строительный кран City 60409</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>83990</price>
+        </offer>
+        <offer sku="1446303">
+            <model>LEGO: Парк американских горок "Мир роботов" City 60421</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>72990</price>
+        </offer>
+        <offer sku="1446304">
+            <model>LEGO: Приморская гавань с грузовым судном City 60422</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>83990</price>
+        </offer>
+        <offer sku="1446305">
+            <model>LEGO: Миссия Красной панды на квадроцикле исследователь джунглей City 60424</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>5990</price>
+        </offer>
+        <offer sku="1446306">
+            <model>LEGO: Водный самолет исследователь джунглей City 60425</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>14990</price>
+        </offer>
+        <offer sku="1446307">
+            <model>LEGO: Внедорожный грузовик исследователь джунглей City 60426</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>19990</price>
+        </offer>
+        <offer sku="1446308">
+            <model>LEGO: Ремонт эвакуаторов и спортивных автомобилей City 60435</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>11990</price>
+        </offer>
+        <offer sku="1446309">
+            <model>LEGO: Вертолет исследователя Джунглей в лагере City 60437</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>72990</price>
+        </offer>
+        <offer sku="1446310">
+            <model>LEGO: Ледяной мотоцикл Зейна Ninjago 71816</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>5990</price>
+        </offer>
+        <offer sku="1446311">
+            <model>LEGO: Турнирная боевая арена Ninjago 71818</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>34990</price>
+        </offer>
+        <offer sku="1446312">
+            <model>LEGO: Комбинированный автомобиль команды Ниндзя Ninjago 71820</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>64990</price>
+        </offer>
+        <offer sku="1446313">
+            <model>LEGO: Титановый дракон Коула Ninjago 71821</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>72990</price>
+        </offer>
+        <offer sku="1446314">
+            <model>LEGO: Bсточник Дракона движения Ninjago 71822</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>114990</price>
+        </offer>
+        <offer sku="1446315">
+            <model>LEGO: операция «Засада на Мандалоре» Star Wars 75373</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>14990</price>
+        </offer>
+        <offer sku="1446316">
+            <model>LEGO: Битва между Пазом Визслой и Моффом Гидеоном Star Wars 75386</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>28990</price>
+        </offer>
+        <offer sku="1446317">
+            <model>LEGO: Боевой робот Люка Скайуокера "Крестокрыл" Star Wars 75390</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>10990</price>
+        </offer>
+        <offer sku="1446319">
+            <model>LEGO: Робот-бэтмен Super Heroes 76270</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>8990</price>
+        </offer>
+        <offer sku="1446322">
+            <model>LEGO: Бэтмобиль Super Heroes 76274</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>44990</price>
+        </offer>
+        <offer sku="1446324">
+            <model>LEGO: Замок Хогвартс: Урок зельеварения Harry Potter 76431</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>28990</price>
+        </offer>
+        <offer sku="1446325">
+            <model>LEGO: Мандрагора Harry Potter 76433</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>50990</price>
+        </offer>
+        <offer sku="1446326">
+            <model>LEGO: Замок Хогвартс: Большой зал Harry Potter 76435</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>154990</price>
+        </offer>
+        <offer sku="1446327">
+            <model>LEGO: Мантии Олливандера и мадам Малкин Harry Potter 76439</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>64990</price>
+        </offer>
+        <offer sku="1446328">
+            <model>LEGO: Суперкар Lamborghini Lambo V12 Vision GT Technic 76923</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>18990</price>
+        </offer>
+        <offer sku="1446329">
+            <model>LEGO: Mercedes AMG GT Roadster Speed Champions 76924</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>36990</price>
+        </offer>
+        <offer sku="1446330">
+            <model>LEGO: Приют для животных Антонио Disney 43251</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>27990</price>
+        </offer>
+        <offer sku="1446332">
+            <model>LEGO: Средневековая городская площадь Icons 10332</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>179990</price>
+        </offer>
+        <offer sku="1446333">
+            <model>LEGO: Ариэль и Флаундер в кафе DUPLO 10420</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>12990</price>
+        </offer>
+        <offer sku="1447271">
+            <model>LEGO: Модель гоночного автомобиля Aston Martin Speed Champions 76925</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>36990</price>
+        </offer>
+        <offer sku="1447272">
+            <model>LEGO: Машины и грузовики DUPLO 10439</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>33990</price>
+        </offer>
+        <offer sku="1450090">
+            <model>LEGO: Трейлер для Тиранозавра Jurassic World 76966</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>66990</price>
+        </offer>
+        <offer sku="1450091">
+            <model>LEGO: Панцирный Анкилозавр Jurassic World 76962</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>16990</price>
+        </offer>
+        <offer sku="1450092">
+            <model>LEGO: Цветочное Сердце Iconic 40638</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>7990</price>
+        </offer>
+        <offer sku="1450093">
+            <model>LEGO: Птичье гнездо Iconic 40639</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>7990</price>
+        </offer>
+        <offer sku="1450099">
+            <model>LEGO: Подземелья и драконы: История Красного дракона Ideas 21348</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>279990</price>
+        </offer>
+        <offer sku="1450100">
+            <model>LEGO: The Batman мультсериал "Готэм-Сити" Super Heroes 76271</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>234990</price>
+        </offer>
+        <offer sku="1455852">
+            <model>LEGO: Полуночный ворон Неверной Ведьмы DREAMZzz 71478</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>69990</price>
+        </offer>
+        <offer sku="1455853">
+            <model>LEGO: Мотоцикл-кошка Зои DREAMZzz 71479</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>13990</price>
+        </offer>
+        <offer sku="1455854">
+            <model>LEGO: Могучая панда Логан DREAMZzz 71480</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>20990</price>
+        </offer>
+        <offer sku="1455855">
+            <model>LEGO: Животные из мечты Иззи DREAMZzz 71481</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>27990</price>
+        </offer>
+        <offer sku="1455856">
+            <model>LEGO: Кошмарные существа Неверной Ведьмы DREAMZzz 71483</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>30990</price>
+        </offer>
+        <offer sku="1455857">
+            <model>LEGO: Робот-динозавр Купера С-Рекс DREAMZzz 71484</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>57990</price>
+        </offer>
+        <offer sku="1455858">
+            <model>LEGO: Матео и боевой робот-рыцарь Z-Blob DREAMZzz 71485</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>99990</price>
+        </offer>
+        <offer sku="1455859">
+            <model>LEGO: Космический корабль "Пепел Оникса" Star Wars 75374</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>104990</price>
+        </offer>
+        <offer sku="1455860">
+            <model>LEGO: Битва на Периде Star Wars 75385</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>39990</price>
+        </offer>
+        <offer sku="1455861">
+            <model>LEGO: Звёздный истребитель джедая Бобы Star Wars 75388</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>29990</price>
+        </offer>
+        <offer sku="1455862">
+            <model>LEGO: Темный Сокол Тысячелетия Star Wars 75389</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>139990</price>
+        </offer>
+        <offer sku="1455863">
+            <model>LEGO: Битва истребителей X-wing и TIE Star Wars 75393</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>84990</price>
+        </offer>
+        <offer sku="1455865">
+            <model>LEGO: Сборная фигура C-3PO Star Wars 75398</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>109990</price>
+        </offer>
+        <offer sku="1455866">
+            <model>LEGO: Верстак Minecraft 21265</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>68990</price>
+        </offer>
+        <offer sku="1455868">
+            <model>LEGO: Водный транспорт Technic 42174</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>94990</price>
+        </offer>
+        <offer sku="1455869">
+            <model>LEGO: Грузовик Volvo FMX и электрический экскаватор EC230 Technic 42175</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>154990</price>
+        </offer>
+        <offer sku="1455870">
+            <model>LEGO: Гоночный автомобиль Porsche GT4 E-Performance Technic 42176</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>134990</price>
+        </offer>
+        <offer sku="1455872">
+            <model>LEGO: Лунный вездеход НАСА «Аполлон» LRV Technic 42182</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>174990</price>
+        </offer>
+        <offer sku="1455873">
+            <model>LEGO: Трамвай и станция в центре города CITY 60423</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>64990</price>
+        </offer>
+        <offer sku="1455875">
+            <model>LEGO: Лодка приключений Тейлза Sonic the Hedgehog 76997</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>39990</price>
+        </offer>
+        <offer sku="1455876">
+            <model>LEGO: Наклз и главный Изумрудный храм Sonic the Hedgehog 76998</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>24990</price>
+        </offer>
+        <offer sku="1455877">
+            <model>LEGO: Супер Соник против Эгг Дриллстера Sonic the Hedgehog 76999</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>60990</price>
+        </offer>
+        <offer sku="1455878">
+            <model>LEGO: Система космического запуска НАСА «Артемида» Icons 10341</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>209990</price>
+        </offer>
+        <offer sku="1455879">
+            <model>LEGO: TIE-перехватчик Star Wars 75382</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>179990</price>
+        </offer>
+        <offer sku="1455880">
+            <model>LEGO: Стражи Галактики - космический корабль "Милан" Marvel 76286</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>144990</price>
+        </offer>
+        <offer sku="1455881">
+            <model>LEGO: Железный Человек против Халка Marvel 76287</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>8990</price>
+        </offer>
+        <offer sku="1455885">
+            <model>LEGO: Финальная битва с Альтроном Marvel 76291</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>74990</price>
+        </offer>
+        <offer sku="1455886">
+            <model>LEGO: Игровая площадка Гумбаса Super Mario 71433</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>8990</price>
+        </offer>
+        <offer sku="1455887">
+            <model>LEGO: Набор для приготовления газировки «Джунгли» Super Mario 71434</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>39990</price>
+        </offer>
+        <offer sku="1455888">
+            <model>LEGO: Битва с Роем в замке принцессы Пич Super Mario 71435</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>44990</price>
+        </offer>
+        <offer sku="1455890">
+            <model>LEGO: Поезд-экспресс Боузер Super Mario 71437</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>94990</price>
+        </offer>
+        <offer sku="1455891">
+            <model>LEGO: Приключения с Марио Super Mario 71439</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>34990</price>
+        </offer>
+        <offer sku="1455892">
+            <model>LEGO: Приключения с Луиджи Super Mario 71440</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>34990</price>
+        </offer>
+        <offer sku="1455893">
+            <model>LEGO: Приключения с принцессой Пич Super Mario 71441</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>34990</price>
+        </offer>
+        <offer sku="1455894">
+            <model>LEGO: Сборная фигура Эвока Star Wars 75392</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>74990</price>
+        </offer>
+        <offer sku="1455895">
+            <model>LEGO: Имперский Звездный разрушитель Star Wars 75394</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>134990</price>
+        </offer>
+        <offer sku="1455896">
+            <model>LEGO: Белый гиперкар Koenigsegg Jesko Absolut White Technic 42184</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>39990</price>
+        </offer>
+        <offer sku="1455897">
+            <model>LEGO: Среднемасштабный вертолет-носитель Marvel 76295</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>59990</price>
+        </offer>
+        <offer sku="1455898">
+            <model>LEGO: Танцующий Грут Marvel 76297</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>33990</price>
+        </offer>
+        <offer sku="1455899">
+            <model>LEGO: Хризантема Botanicals 10368</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>20990</price>
+        </offer>
+        <offer sku="1455900">
+            <model>LEGO: Цветущая слива Botanicals 10369</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>20990</price>
+        </offer>
+        <offer sku="1455901">
+            <model>LEGO: Суперкар Ferrari F40 Speed Champions 76934</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>19990</price>
+        </offer>
+        <offer sku="1455910">
+            <model>LEGO: Концерт К.К. на площади Animal Crossing 77052</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>59990</price>
+        </offer>
+        <offer sku="1462099">
+            <model>LEGO: NASCAR Next Gen Chevrolet Camaro Zl Speed Champions 76935</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>19990</price>
+        </offer>
+        <offer sku="1462103">
+            <model>LEGO: Полет с Dodo Airlines Animal Crossing 77051</model>
+            <brand>LEGO</brand>
+            <availabilities>
+                <availability available="yes" storeId="AKLDMO12"/>
+            </availabilities>
+            <price>24990</price>
+        </offer>
+    </offers>
+</kaspi_catalog>
