@@ -50,9 +50,6 @@
               <name>Compound</name>
               <value>Starch syrup, sugar, drinking water, corn starch, dextrose, gelatin, Vanillin flavoring</value>
               </language>
-              <language code="uz">
-                  <unit>uz_unit</unit>
-              </language>
               </param>
               <param>
               <dimensions>70/150/7</dimensions>
