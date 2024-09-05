@@ -71,6 +71,7 @@
                 <language code="uzb">
                     <name>uzb Peach 77 Niacin Enriched Cream</name>
                     <description>Смягчающий крем </description>
+                    <unit>done_unit</unit>
                 </language>
             </offer>
         </offers>
